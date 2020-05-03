@@ -1,0 +1,12 @@
+Instructions:
+
+* Sending and Recieving of messages are done in the same program. So we have to run
+  the same program on as many sites as needed. Suppose there are 4 sites, there should be 4 consoles/Terminals opened.
+
+* The processes will not start execution until all processes are started. So please
+  make sure that all processes are strated correctly.
+
+* raexe.exe is the executable.
+
+* config.txt is the configuration file. Please make sure that the config.txt file
+  is in the same directory as that of RA.c
